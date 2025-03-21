@@ -4,6 +4,5 @@ xgboost
 pandas
 numpy
 scikit-learn
-sqlite3  # Not always needed, but some environments require it
-joblib  # If you're using joblib for model saving/loading
-requests  # If you're downloading the model dynamically
+joblib
+SQLAlchemy
